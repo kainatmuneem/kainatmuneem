@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @kainatmuneem  
+- 👀 I’m interested in web development, AI, and creative design.  
+- 🌱 I’m currently learning JavaScript and exploring AI tools for developers.  
+- 💞️ I’m looking to collaborate on open-source projects and innovative web applications.  
+- 📫 How to reach me: kainatmuneem001@gmail.com.com or connect with me on LinkedIn.
+-   
+- 😄   
+- ⚡ Fun fact: I can juggle between coding and painting in the same hour!  
